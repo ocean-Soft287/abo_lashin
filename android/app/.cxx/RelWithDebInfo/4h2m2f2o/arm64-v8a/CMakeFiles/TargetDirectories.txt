@@ -1,0 +1,2 @@
+C:/Users/Mohamed khaled/StudioProjects/Abolashin-main/android/app/.cxx/RelWithDebInfo/4h2m2f2o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Mohamed khaled/StudioProjects/Abolashin-main/android/app/.cxx/RelWithDebInfo/4h2m2f2o/arm64-v8a/CMakeFiles/rebuild_cache.dir

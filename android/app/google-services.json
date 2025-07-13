@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893044182440",
+    "project_id": "abolashin-9be77",
+    "storage_bucket": "abolashin-9be77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893044182440:android:2b32b6fa21a4eb515da19d",
+        "android_client_info": {
+          "package_name": "com.abolashine.theOne.abolashin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKRDgu6vlgbf73MSIFVk8oOO-s4UL3xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

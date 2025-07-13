@@ -1,0 +1,2 @@
+C:/projectFluttrt/New folder/Abolashin/android/app/.cxx/RelWithDebInfo/2l6g4e6e/x86/CMakeFiles/edit_cache.dir
+C:/projectFluttrt/New folder/Abolashin/android/app/.cxx/RelWithDebInfo/2l6g4e6e/x86/CMakeFiles/rebuild_cache.dir

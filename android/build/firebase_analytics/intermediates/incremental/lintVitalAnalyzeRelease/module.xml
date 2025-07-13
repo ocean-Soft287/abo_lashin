@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Mohamed khaled\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_analytics-11.4.4\android"
+    name=":firebase_analytics"
+    type="LIBRARY"
+    maven="io.flutter.plugins.firebase.analytics:firebase_analytics:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\firebase_analytics"
+    bootClassPath="C:\Users\Mohamed khaled\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Mohamed khaled\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

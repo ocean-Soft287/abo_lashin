@@ -1,0 +1,251 @@
+{
+  "login": "تسجيل الدخول",
+  "username_or_email": "اسم المستخدم أو البريد الإلكتروني",
+  "no_account": "ليس لديك حساب ؟",
+  "register_new_account": "تسجيل حساب جديد",
+  "register": "تسجيل",
+  "welcome_message": "اهلا ",
+  "first_name": "الاسم الأول",
+  "last_name": "الاسم الأخير",
+  "phone_number": "رقم الجوال",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirm_password": "تأكيد كلمة المرور",
+  "please_enter_password": "يرجى إدخال كلمة المرور",
+  "mobile": " رقم الجوال",
+  "please_enter_mobile": "يرجى إدخال  رقم الجوال",
+  "please_enter_valid_email_or_phone": "يرجى إدخال بريد إلكتروني صالح أو رقم هاتف مع رمز الدولة",
+  "please_enter_email_or_phone": "يرجى إدخال  رقم هاتف",
+  "email_or_phone_with_country_code": " رقم الجوال ",
+
+
+  "confirm_email": "تأكيد البريد الإلكتروني",
+
+  "password_length": "يجب أن تحتوي كلمة المرور على 8 أحرف",
+  "password_uppercase": "يجب أن تحتوي كلمة المرور على أحرف إنجليزية كبيرة (C, B, A)",
+  "password_lowercase": "يجب أن تحتوي كلمة المرور على أحرف إنجليزية صغيرة (c, b, a...)",
+  "password_special": "يجب أن تحتوي كلمة المرور على رمز خاص واحد أو أكثر (%, &, #..)",
+  "password_numbers": "يجب أن تحتوي كلمة المرور على أرقام (1, 2, 3...)",
+  "message": "أود معرفة أحدث عروض مكتبة دار الحكمة ",
+  "agreement": "بإنشاء حساب جديد أنا أوافق على شروط وأحكام مكتبة دار الحكمة ",
+  "terms": "الشروط والأحكام وسياسة الخصوصية",
+  "emails_do_not_match": "عناوين البريد الإلكتروني لا تتطابق",
+
+  "please_enter_confirm_password": "يرجى إدخال تأكيد كلمة المرور",
+  "passwords_do_not_match": "كلمتا المرور غير متطابقتين",
+  "account_failed": "لم يتم تسجيل الحساب",
+  "title_failed": "حاول مرة أخرى",
+
+  "login_failed_title": "لم يتم تسجيل الحساب",
+  "login_failed_subtitle": "تحقق من رقم الموبيل أو كلمة المرور وحاول مرة أخرى.",
+  "login_success": "تم تسجيل الدخول بنجاح",
+  "please_enter_first_name": "الرجاء إدخال الاسم الأول",
+  "please_enter_valid_first_name": "الرجاء إدخال اسم أول صحيح",
+  "please_enter_last_name": "الرجاء إدخال اسم العائلة",
+  "please_enter_valid_last_name": "الرجاء إدخال اسم عائلة صحيح",
+  "please_enter_email": "الرجاء إدخال البريد الإلكتروني",
+  "please_enter_confirm_email": "الرجاء تأكيد البريد الإلكتروني",
+  "logout_confirmation": "تأكيد تسجيل الخروج",
+  "logout_confirmation_message": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "cancel": "إلغاء",
+  "confirm": "تأكيد",
+  "logout": "تسجيل خروج",
+  "order_date": "تاريخ الطلبيه",
+  "delivery_address": "عنوان التوصيل",
+  "total_price": "اجمالى السعر",
+  "previous_orders": "الطلبات السابقة",
+  "order_number": "رقم الطلبيه",
+  "received": "تم الاستلام",
+  "not_delivered": "لم يتم التسليم",
+  "street": "الشارع",
+  "house": "المنزل",  "account_exists": "هذا الحساب مسجّل بالفعل",
+  "account_exists_message": "يبدو أنك سجلت مسبقًا بنفس رقم الهاتف ، يمكنك تسجيل الدخول أو استخدام رقم آخر.",
+
+  "create_new_account": "إنشاء حساب جديد",
+  "current_orders": "طلباتي الحالية",
+  "no_previous_orders": "لا توجد طلبيات سابقة.",
+  "shop_now": "تسوق الآن.",
+  "floor": "الدور",
+  "no_tracking_orders": "لا توجد طلبات قيد المتابعة حاليًا",
+  "browse_and_order": "يمكنك استكشاف المزيد من المنتجات وإتمام طلب جديد!",
+  "area": "المنطقة",
+  "mobile_number": "رقم الجوال",
+  "name": "الاسم",
+  "delivery_details": "بيانات التوصيل",
+  "please_enter_name": "يرجى إدخال الاسم",
+  "please_enter_mobile_number": "يرجى إدخال رقم الجوال",
+  "please_enter_house": "يرجى إدخال رقم المنزل",
+  "please_enter_floor": "يرجى إدخال رقم الدور",
+  "please_enter_street": "يرجى إدخال رقم الشارع",
+  "please_enter_notes": "يرجى إدخال الملاحظات",
+  "notes": "ملاحظات",
+  "subtotal": "المجموع الفرعي",
+  "delivery_fee": "إجمالي رسوم التوصيل",
+  "total": "الاجمالى",
+  "complete_order": "إتمام الطلب",
+  "order_success": "تم تسجيل الطلب بنجاح",
+  "products": "المنتجات",
+  "order_error": "لم يتم تسجيل طلبك",
+  "shop_by_category": "تسوق حسب الفئة",
+  "your_address": "عنوانك",
+  "offers": "عروض",
+  "bestsellers": "الأكثر مبيعا",
+  "home": "الرئيسية",
+  "cart": "السلة",
+  "search": "بحث"
+, "currency": " ج.م",
+
+  "recently_ordered_products": "منتجات طلبتها مؤخراً",
+  "similar_products": "منتجات مشابهة",
+  "add_to_cart": "أضافة الي السلة",
+  "address": "شارع المدينة 2 ,حولي , الكويت",
+  "delivery_to": "التوصيل إلي: ",
+  "to_home": "المنزل",
+  "product_name": "أبوعوف قهوه فاتح ساده 100جم",
+
+  "choose_address": "أختر عنوان",
+  "add_new_address": "أضف عنوان جديد",
+  "existing_address": "عنوان موجود مسبقاً"
+, "quantity": "الكمية",
+  "categories": "الفئات",
+  "region": "المنطقة",
+
+  "building": "المبنى",
+  "my_orders": "طلباتي السابقة",
+  "favorites": "المفضلة",
+  "about_us": "من نحن",
+  "frequently_asked_questions": "الاسئلة الشائعة",
+  "policy_privacy": "السياسة والخصوصية",
+  "change_language": "Change Language",
+  "order_received_desc": "تم استلام طلبك بنجاح وسيتم معالجته قريبًا. شكرًا لاختيارك لنا.",
+  "order_confirmed_desc": "تم تأكيد طلبك بنجاح، ونحن الآن بصدد تجهيزه لإرساله إليك.",
+  "order_in_preparation_desc": "الطلب في مرحلة التجهيز الآن. سيتم تحضيره للشحن في أقرب وقت.",
+  "order_in_transit_desc": "الطلب في طريقه إليك. سيتم توصيله بواسطة خدمة الشحن قريبًا.",
+  "order_delivered_desc": "تم تسليم طلبك بنجاح. شكرًا لك على الشراء، نأمل أن تكون راضيًا عن منتجاتك.",
+
+  "order_received": "تم استلام الطلب",
+  "order_confirmed": "تم تأكيد الطلب",
+  "order_in_preparation": "الطلب في مرحلة التجهيز",
+  "order_in_transit": "في الطريق إليك",
+  "order_delivered": "تم التسليم",
+
+"add_address": "إضافة عنوان",
+  "product": "تفاح أخضر مستورد 1 كجم",
+  "complete_purchase": "اتمام الشراء",
+
+
+  "new_arrival": "وصل حديثًا",
+
+  "organic_white_eggs": "أورجانيك بيض أبيض 15 بيضة",
+  "momos_veal_fillet_slices": "موموز شرائح فيليه بتلو 450 جم",
+  "phone_with_country_code": "رقم الهاتف ",
+  "please_enter_phone": "الرجاء إدخال رقم الهاتف",
+  "please_enter_valid_phone": "الرجاء إدخال رقم هاتف صالح",
+  "institution_name": "اسم المؤسسه",
+  "please_enter_institution_name": "الرجاء إدخال اسم المؤسسه",
+  "menu": "القائمة",
+  "description": "الوصف",
+  "special_offer": "عرض خاص",
+  "enter_discount_code": "ادخل كود الخصم",
+  "please_enter_discount_code": "برجاء إدخال كود الخصم",
+  "activate": "تفعيل",
+  "do_you_have_discount_code": "هل لديك كود خصم؟",
+  "payment_method": "طريقة الدفع",
+  "cash_on_delivery": "الدفع عند الاستلام",
+  "shop_by_categories": "تسوق بالاقسام",
+  "see_more": "عرض المزيد",
+  "address_name": "اسم العنوان",
+  "account_inactive": "حسابك غير نشط في الوقت الحالي.",
+  "cannot_place_order_contact_service": "لا يمكنك تقديم طلبية في الوقت الحالي. يرجى التواصل مع خدمة العملاء.",
+  "call": "اتصال",
+  "whatsapp": "واتساب",
+  "please_enter_address_name": "برجاء ادخال اسم العنوان",
+  "address_details": "تفاصيل العنوان",
+  "please_enter_address_details": "برجاء ادخال تفاصيل العنوان",
+  "select_governorate": "اختار المحافظة",
+  "select_area": "اختار المنطقة",
+  "address_not_added": "لم يتم إضافة العنوان",
+  "address_added_successfully": "تم إضافة العنوان بنجاح",
+
+  "invoice_number": "رقم الفاتوره",
+  "date": "التاريخ",
+
+  "total_quantity": "اجمالى الكميه",
+
+  "discount": "الخصم",
+  "final_price": "السعر النهائى",
+  "item_name": "اسم الصنف",
+  "unit_price": "سعر الوحده",
+  "home_page": "الصفحه الرئسيه",
+  "minimum_order_value": "الحد الأدنى للفاتورة يجب أن يكون",
+  "coupon_used_before": "تم استخدام كود الخصم من قبل",
+  "discount_value": "قيمة الخصم",
+  "discount_code_activated_successfully": "تم تفعيل كود الخصم بنجاح",
+  "biggest_discount": "الأكثر خصمًا",
+  "banner_categories": "أصناف البنر",
+
+  "faq": [
+    {
+      "question": "ما هي مواعيد العمل؟",
+      "answer": "ساعات العمل على مدار 24 ساعة، يمكنك تلقى طلبك في أي وقت طوال أيام الأسبوع"
+    },
+    {
+      "question": "ما هي المناطق التي تتوفر بها خدمة التوصيل داخل مصر؟",
+      "answer": "حاليًا التوصيل متاح في القاهرة والجيزة، ونعمل على التوسع لباقي المحافظات قريبًا"
+    },
+    {
+      "question": "ما هي أقل قيمة للطلب؟",
+      "answer": "20 جنيهًا مصريًا"
+    },
+    {
+      "question": "كم تستغرق عملية التوصيل؟",
+      "answer": "عادةً ما تستغرق عملية التوصيل 24   عمل حسب المنطقة والموقع"
+    },
+    {
+      "question": "هل يمكنني تغيير عنوان التوصيل بعد تقديم الطلب؟",
+      "answer": "نعم، يمكن تغيير عنوان التوصيل إذا لم يتم شحن الطلب بعد. يُرجى الاتصال بخدمة العملاء في أقرب وقت ممكن لتحديث العنوان"
+    },
+    {
+      "question": "ماذا أفعل إذا كان المنتج تالفًا عند الاستلام؟",
+      "answer": "إذا استلمت منتجًا تالفًا، يُرجى الاتصال بخدمة العملاء في غضون 48 ساعة من الاستلام. سنقوم بترتيب استبدال أو استرداد المبلغ وفقًا لسياسة الإرجاع"
+    },
+    {
+      "question": "ما هي سياسة الإرجاع؟",
+      "answer": "يمكنك إرجاع المنتجات خلال 14 يومًا من استلامها بشرط أن تكون غير مستخدمة وفي حالتها الأصلية. قد تكون بعض المنتجات مستثناة من سياسة الإرجاع مثل المنتجات القابلة للتلف أو التي تم فتحها"
+    },
+    {
+      "question": "كيف يمكنني إرجاع منتجي؟",
+      "answer": "يرجى الاتصال بخدمة العملاء للحصول على تعليمات كيفية إرجاع المنتج. قد تحتاج إلى تعبئة نموذج الإرجاع وإعادة شحن المنتج باستخدام خدمة شحن معتمدة"
+    },
+    {
+      "question": "متى سأستلم المبلغ المسترد؟",
+      "answer": "بمجرد الموافقة على طلب الإرجاع، سيتم معالجة المبلغ المسترد في غضون 2 إلى 3 أيام عمل وسيتم إعادته إلى طريقة الدفع التي استخدمتها في عملية الدفع"
+    },
+    {
+      "question": "ما هي طرق الدفع المتاحة؟",
+      "answer": " الدفع عند الاستلام"
+    }
+  ],
+  "account_info": "معلومات الحساب",
+  "saved_addresses": "العناوين المحفوظة",
+  "news_marquee": "مع ابليكشن غيث ساعد فى نشر الخير",
+  "delete_account": "حذف الحساب",
+  "confirm_delete_account": "هل أنت متأكد من حذف هذا الحساب؟",
+  "old_password": "كلمة السر القديمة",
+  "enter_old_password": "ادخل كلمة السر القديمة",
+  "new_password": "كلمة السر الجديدة",
+  "enter_new_password": "ادخل كلمة السر الجديدة",
+  "confirm_new_password": "تأكيد كلمة السر الجديدة",
+  "passwords_do_not_match_new": "كلمة السر الجديدة وتأكيد كلمة السر الجديده لا يتطابقان",
+  "old_password_incorrect": "كلمة المرور القديمة خاطئة",
+  "password_changed_successfully": "تم تغيير الباسورد بنجاح",
+
+  "profile": "الملف الشخصي",
+
+  "company_name": "اسم المؤسسة",
+  "change_password": "تغيير كلمة المرور",
+  "writeyournote": "اكتب ملاحظتك",
+
+  "please_entre_delivery_adrres": "برجاء ارسال عنوان التوصيل"
+
+}

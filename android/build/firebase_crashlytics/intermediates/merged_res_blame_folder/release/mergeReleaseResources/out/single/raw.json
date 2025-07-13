@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/raw/firebase_common_keep.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-jetified-firebase-common-21.0.0-25:/raw/firebase_common_keep.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/raw/firebase_crashlytics_keep.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-jetified-firebase-crashlytics-19.4.2-6:/raw/firebase_crashlytics_keep.xml"
+    }
+]

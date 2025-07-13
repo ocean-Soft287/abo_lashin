@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-v21/notification_action_background.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-release-32:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "io.flutter.plugins.firebase.crashlytics.firebase_crashlytics-core-1.13.1-17:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    }
+]

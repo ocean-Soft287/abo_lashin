@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="net.jonhanson.flutter_native_splash"
+    minSdkVersion="16"
+    targetSdkVersion="16"
+    mergedManifest="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml"
+    manifestMergeReport="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\intermediates\default_proguard_files\global\proguard-android.txt-8.7.0"
+    partialResultsDir="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\intermediates\lint_partial_results\release\lintAnalyzeRelease\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\release\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\intermediates\javac\release\compileReleaseJavaWithJavac\classes;C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="net.jonhanson.flutter_native_splash"
+      generatedSourceFolders="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\flutter_native_splash\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\Mohamed khaled\.gradle\caches\8.10.2\transforms\1160dc75c6652b58ad87592cc05a8c9d\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

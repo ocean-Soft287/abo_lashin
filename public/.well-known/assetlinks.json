@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.abolashine.theOne.abolashin",
+    "sha256_cert_fingerprints":
+    ["06:35:F7:FC:82:EE:A5:DB:61:F0:30:B9:9C:3E:20:CF:39:C9:0E:BB:94:F8:9C:F0:8B:46:99:EC:A8:13:43:DB"]
+  }
+}]

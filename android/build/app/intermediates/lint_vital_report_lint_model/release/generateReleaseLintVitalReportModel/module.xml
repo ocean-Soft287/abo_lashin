@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.7.0"
+    buildFolder="C:\Users\Mohamed khaled\StudioProjects\Abolashin-main\android\build\app"
+    bootClassPath="C:\Users\Mohamed khaled\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Mohamed khaled\AppData\Local\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

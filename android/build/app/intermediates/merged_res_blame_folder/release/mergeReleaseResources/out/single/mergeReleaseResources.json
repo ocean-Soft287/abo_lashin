@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-ldpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_custom_dialog.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_notification_oversize_large_icon_bg.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/notification_oversize_large_icon_bg.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi-v4_ic_call_answer.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_notification_icon_background.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_ic_call_answer.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-anydpi-v26_launcher_icon.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-anydpi-v26/launcher_icon.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-ldpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_ic_call_decline.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-anydpi-v21_ic_call_answer_video.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-anydpi-v21_ic_call_answer_video_low.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_ic_call_answer.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_browser_actions_context_menu_page.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-browser-1.8.0-18:/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_notification_bg_low.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/animator_fragment_fade_exit.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-v21_background.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_ime_base_split_test_activity.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_browser_actions_context_menu_row.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-browser-1.8.0-18:/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-anydpi-v21_ic_call_answer.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-anydpi-v21_ic_call_answer_low.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_corner.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-release-49:/drawable/corner.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_ic_call_answer.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/color_common_google_signin_btn_tint.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_ime_secondary_split_test_activity.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-ldpi-v4_ic_call_decline.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout-v21_notification_action.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_toast_custom.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-release-49:/layout/toast_custom.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-ldpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-v21_launch_background.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-anydpi-v21_ic_call_decline.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-v21_notification_action_background.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/raw_firebase_crashlytics_keep.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-firebase-crashlytics-19.4.2-6:/raw/firebase_crashlytics_keep.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi-v4_ic_call_decline.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout_notification_template_part_time.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/xml_image_share_filepaths.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-browser-1.8.0-18:/xml/image_share_filepaths.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_ic_call_decline.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_ic_call_decline.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/animator_fragment_close_enter.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_notification_bg.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_ic_call_answer_video_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/raw_firebase_common_keep.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-firebase-common-21.0.0-32:/raw/firebase_common_keep.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_ic_call_decline.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-anydpi-v21_ic_call_decline_low.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/animator_fragment_fade_enter.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/xml_flutter_share_file_paths.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-release-51:/xml/flutter_share_file_paths.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_ic_call_answer_video.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/animator_fragment_open_enter.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/animator_fragment_close_exit.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi-v4_ic_call_decline_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-ldpi-v4_ic_call_answer.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable_toast_bg.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-release-49:/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-main-33:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-ldpi-v4_ic_call_answer_low.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-jetified-play-services-base-18.5.0-26:/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/drawable-mdpi-v4_ic_call_answer.png.flat",
+        "source": "com.abolashine.theOne.abolashin.app-core-1.13.1-20:/drawable-mdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.abolashine.theOne.abolashin.app-release-41:/animator_fragment_open_exit.xml.flat",
+        "source": "com.abolashine.theOne.abolashin.app-fragment-1.7.1-19:/animator/fragment_open_exit.xml"
+    }
+]
