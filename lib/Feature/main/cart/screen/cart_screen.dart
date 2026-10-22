@@ -31,6 +31,7 @@ class _CartScreenState extends State<CartScreen> {
   @override
   void initState() {
     super.initState();
+    context.read<CartCubit>().refreshCartPrices();
   }
 
   @override

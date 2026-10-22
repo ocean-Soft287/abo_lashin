@@ -4,7 +4,7 @@ description: "A new Flutter project."
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-version: 1.0.4
+version: 1.0.5+5
 
 environment:
   sdk: ^3.7.2
@@ -42,7 +42,7 @@ dependencies:
   go_router: ^14.6.0
   salomon_bottom_bar: ^3.3.2
   flutter_feather_icons: ^2.0.0
-  google_fonts: ^4.0.3
+  google_fonts: ^6.2.1
   intl_phone_field: ^3.1.0
   dropdown_button2: ^2.3.9
   connectivity_plus: ^5.0.2

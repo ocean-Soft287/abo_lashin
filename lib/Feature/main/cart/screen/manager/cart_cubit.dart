@@ -1,5 +1,11 @@
+import 'dart:convert';
+
 import 'package:flutter_bloc/flutter_bloc.dart';
+import '../../../../../core/constans/constants.dart';
 import '../../../../../core/network/local/hive_manger.dart';
+import '../../../../../core/network/remote/diohelper.dart';
+import '../../../../../core/network/remote/encrupt.dart';
+import '../../../product_details/model/product_details_model.dart';
 import '../model/cart_item_model.dart';
 import 'chat_state.dart';
 
@@ -33,6 +39,68 @@ print(loadedList);
     }
   }
 
+
+  // بيجيب أحدث سعر ومخزون لكل منتج في السلة من السيرفر
+  Future<void> refreshCartPrices() async {
+    if (_cartItems.isEmpty) return;
+    emit(CartLoading());
+
+    final productIds = _cartItems.map((e) => e.productId).toSet();
+    final results = await Future.wait(productIds.map(_fetchProduct));
+    final products = {
+      for (final p in results)
+        if (p != null) p.productID!.toInt(): p,
+    };
+
+    for (var i = 0; i < _cartItems.length; i++) {
+      final item = _cartItems[i];
+      final product = products[item.productId];
+      if (product == null) continue; // لو الطلب فشل نسيب السعر القديم
+
+      final unit = product.productUnitImages
+          ?.where((u) => u.barcode == item.barcode)
+          .firstOrNull;
+
+      if (unit != null) {
+        _cartItems[i] = item.copyWith(
+          priceBeforeDiscount: unit.price,
+          priceAfterDiscount: unit.priceAfterDiscount,
+          stockQuantity: unit.stockQty,
+          customerQuantity: unit.customerQuantity,
+        );
+      } else if (product.barCode == item.barcode) {
+        _cartItems[i] = item.copyWith(
+          priceBeforeDiscount: product.price?.toDouble(),
+          priceAfterDiscount: product.priceAfterDiscount?.toDouble(),
+          stockQuantity: product.stockQuantity,
+          customerQuantity: product.customerQuantity,
+        );
+      }
+    }
+
+    await HiveCrudManager.saveList(
+      cartBox,
+      cartKey,
+      _cartItems.map((e) => e.toJson()).toList(),
+    );
+    emit(CartAddItemSuccess());
+  }
+
+  Future<ProductDetailsModel?> _fetchProduct(int productId) async {
+    try {
+      final value = await DioHelper.getData(
+        url:
+            '/api/Product/GetProductById?ProductId=$productId&CustomerPhone=$customerPhone',
+      );
+      if (value.statusCode != 200) return null;
+      final decryptedText = decrypt(value.data, privateKey, publicKey);
+      final List<dynamic> jsonList = jsonDecode(decryptedText);
+      if (jsonList.isEmpty) return null;
+      return ProductDetailsModel.fromJson(jsonList.first);
+    } catch (e) {
+      return null;
+    }
+  }
 
   int getItemCount({
     required int productId,
