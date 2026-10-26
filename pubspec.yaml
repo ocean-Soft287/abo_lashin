@@ -42,7 +42,7 @@ dependencies:
   go_router: ^14.6.0
   salomon_bottom_bar: ^3.3.2
   flutter_feather_icons: ^2.0.0
-  google_fonts: ^4.0.3
+  google_fonts: ^8.2.1
   intl_phone_field: ^3.1.0
   dropdown_button2: ^2.3.9
   connectivity_plus: ^5.0.2
@@ -58,6 +58,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   equatable: ^2.0.7
+  package_info_plus: ^9.0.1
+  in_app_review: ^2.0.12
+  in_app_update: ^5.0.0
+  firebase_remote_config: 5.4.3
+  flutter_local_notifications: ^22.3.2
+  timezone: ^0.11.2
 
 dev_dependencies:
   flutter_test:
@@ -131,6 +137,23 @@ flutter_launcher_icons:
 
 
 flutter_native_splash:
-  android_12:
+  # Brand navy (AppColors.brandNavy) with the logo centred at the same
+  # 146.5dp width on every platform. Android uses splash_logo.png directly
+  # (read as 4x); the copies in assets/splash/ are generated from it
+  # for each generator density where the original cannot be used as-is
+  # (iOS treats it as 3x; Android 12 needs the padded 288dp icon canvas).
+  color: "#131874"
+  color_dark: "#131874"
+  image_android: assets/image/splash_logo.png
+  image_dark_android: assets/image/splash_logo.png
+  image_ios: assets/splash/splash_logo_ios.png
+  image_dark_ios: assets/splash/splash_logo_ios.png
+  android_gravity: center
+  ios_content_mode: center
   fullscreen: true
-  background_image: 'assets/image/intiSpalsh.png'
+  web: false
+  android_12:
+    image: assets/splash/splash_logo_android12.png
+    image_dark: assets/splash/splash_logo_android12.png
+    color: "#131874"
+    color_dark: "#131874"

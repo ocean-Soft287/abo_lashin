@@ -1,47 +1,63 @@
 import java.util.Properties
 import java.io.FileInputStream
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
     id("com.android.application")
-    id("com.google.gms.google-services") // Firebase plugin
+    id("com.google.gms.google-services")
+    id("com.google.firebase.crashlytics")
     id("kotlin-android")
-    id("dev.flutter.flutter-gradle-plugin") // يجب أن يكون آخر واحد
+    id("dev.flutter.flutter-gradle-plugin")
 }
 
 val keystoreProperties = Properties()
-val keystorePropertiesFile = rootProject.file("../android/app/key.properties") // ✅ تم تصحيح المسار هنا
+val keystorePropertiesFile = rootProject.file("key.properties")
+
 if (keystorePropertiesFile.exists()) {
-    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+    FileInputStream(keystorePropertiesFile).use {
+        keystoreProperties.load(it)
+    }
 }
 
 android {
     namespace = "com.abolashine.theOne.abolashin"
-    compileSdk = 35
-    ndkVersion = "27.0.12077973"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = "28.2.13676358"
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_11
-        targetCompatibility = JavaVersion.VERSION_11
-    }
-
-    kotlinOptions {
-        jvmTarget = "11"
+        // Required by flutter_local_notifications.
+        isCoreLibraryDesugaringEnabled = true
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
 
     defaultConfig {
         applicationId = "com.abolashine.theOne.abolashin"
-        minSdk = 23
-        targetSdk = 35
+        minSdk = flutter.minSdkVersion
+        targetSdk = 36
         versionCode = 4
         versionName = "1.0.4"
     }
 
     signingConfigs {
         create("release") {
-            keyAlias = keystoreProperties["keyAlias"] as String
-            keyPassword = keystoreProperties["keyPassword"] as String
-            storeFile = file(keystoreProperties['storeFile'] as String)
-            storePassword = keystoreProperties["storePassword"] as String
+            if (keystorePropertiesFile.exists()) {
+                val storePath =
+                    keystoreProperties.getProperty("storeFile")
+                        ?: error("Missing storeFile in key.properties")
+
+                storeFile = rootProject.file(storePath)
+                storePassword = keystoreProperties.getProperty("storePassword")
+                keyAlias = keystoreProperties.getProperty("keyAlias")
+                keyPassword = keystoreProperties.getProperty("keyPassword")
+
+                check(storeFile?.exists() == true) {
+                    "Release keystore file does not exist: $storePath"
+                }
+            } else {
+                // Temporary testing only; not suitable for production signing.
+                initWith(getByName("debug"))
+            }
         }
     }
 
@@ -50,6 +66,7 @@ android {
             signingConfig = signingConfigs.getByName("release")
             isMinifyEnabled = true
             isShrinkResources = true
+
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
@@ -58,9 +75,17 @@ android {
     }
 }
 
+kotlin {
+    compilerOptions {
+        jvmTarget = JvmTarget.JVM_17
+    }
+}
+
 flutter {
     source = "../.."
 }
+
 dependencies {
     implementation("com.google.android.material:material:1.11.0")
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 }
